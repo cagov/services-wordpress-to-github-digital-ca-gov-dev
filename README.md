@@ -1,3 +1,6 @@
+## This is the development instance of the publishing tool
+
+This has its own repo so it may be deployed to its own Azure Function. It includes the same code as the production publishing tool for this site but uses the beta version of the underlying npm package: <a href="https://www.npmjs.com/package/@cagov/wordpress-to-github">https://www.npmjs.com/package/@cagov/wordpress-to-github</a>
 # wordpress-to-github implementation for digital.ca.gov
 
 This is the [wordpress-to-github](https://www.npmjs.com/package/@cagov/wordpress-to-github) implementation for [digital.ca.gov](https://digital.ca.gov).
